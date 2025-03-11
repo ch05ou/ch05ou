@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm YuAn Chou</h1>
+<h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A student in NKUST Electronic Engineering.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
